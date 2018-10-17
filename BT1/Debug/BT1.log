@@ -1,0 +1,7 @@
+﻿  List.cpp
+c:\users\pc\source\repos\bt1\bt1\list.cpp(139): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pc\source\repos\bt1\bt1\list.cpp(316): warning C4129: 'N': unrecognized character escape sequence
+  main.cpp
+c:\users\pc\source\repos\bt1\bt1\main.cpp(22): warning C4101: 'vt': unreferenced local variable
+  Generating Code...
+  BT1.vcxproj -> C:\Users\PC\source\repos\BT1\Debug\BT1.exe
